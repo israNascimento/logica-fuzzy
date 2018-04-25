@@ -10,3 +10,7 @@ Repositório para realização de trabalho sobre lógica fuzzy, para disciplina 
 ## Sistema:
 ![Sistema escolhido](https://i.imgur.com/ErYCPhg.png)
 
+## Gráficos de fuzzificação das variáveis
+![Espessura](https://i.imgur.com/DXgnhO8.png)
+![Definição](https://i.imgur.com/aMRlqnk.png)
+![Classificação](https://i.imgur.com/76pr8Xd.png)
