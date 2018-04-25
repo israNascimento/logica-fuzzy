@@ -8,5 +8,5 @@ Repositório para realização de trabalho sobre lógica fuzzy, para disciplina 
 * Teste o sistema para algumas opções de entrada e verifique se a resposta está consistente
 
 ## Sistema:
-![Sistema escolhido](https://i.imgur.com/0olhMAY.png)
+![Sistema escolhido](https://i.imgur.com/ErYCPhg.png)
 
